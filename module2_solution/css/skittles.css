@@ -10,10 +10,12 @@ h1 {
 
 h3 {
     border: 3px solid blueviolet;
+    height: 30px;
     width: 120px;
     margin-left: auto;
-    right: 0px;
+    margin-top: auto;
     text-align: center;
+    background-color: antiquewhite;
 }
 
 p {
@@ -26,6 +28,8 @@ p {
     font-family: Helvetica;
     color: white;
 }
+
+
 
 .honey {=
 }
