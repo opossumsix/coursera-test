@@ -8,6 +8,11 @@ h1 {
     text-align: center;
 }
 
+h3 {
+    text-align: right;
+    padding-right: 15px;
+}
+
 p {
     border: 1px solid black;
     background-color: #A52A2A;
@@ -19,17 +24,13 @@ p {
     color: white;
 }
 
-.honey {
-    border: 1px #A52A2A;
-    text-align: right;
+.honey {=
 }
 
 .soap {
-    text-align: right;
 }
 
 .chapstick {
-    text-align: right;
 }
 
 /* the responsive framework - 100% browser width */
@@ -41,7 +42,7 @@ p {
 @media (min-width: 992px) {
     .col-lg-1, .col-lg-2, .col-lg-3 {
         float: left;
-        border: 1px solid greenyellow;
+        border: 85px solid greenyellow;
         margin: 0px;
     }
     .col-lg-1 {
