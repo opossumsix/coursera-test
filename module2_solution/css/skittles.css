@@ -21,6 +21,15 @@ p {
 
 .honey {
     border: 1px #A52A2A;
+    text-align: right;
+}
+
+.soap {
+    text-align: right;
+}
+
+.chapstick {
+    text-align: right;
 }
 
 /* the responsive framework - 100% browser width */
