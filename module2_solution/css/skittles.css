@@ -19,6 +19,10 @@ p {
     color: white;
 }
 
+.honey {
+    border: 1px #A52A2A;
+}
+
 /* the responsive framework - 100% browser width */
 .row {
     width: 100%;
