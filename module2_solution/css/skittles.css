@@ -47,12 +47,22 @@ p {
         float: left;
         border: 1px solid greenyellow;
     }
+    .col-lg-1 {
+        width: 50%;
+    }
+    .col-lg-2 {
+        width: 50%;
+    }
+    .col-lg-3 {
+        width: 100%;
+    }
 }
 
 /* the small screen style */
-@media (min-width: 768px) and (max-width: 991px) {
+@media (max-width: 767px) {
     .col-lg-1, .col-lg-2, .col-lg-3 {
         float: left;
         border: 1px solid greenyellow;
+        width: 100%;
     }
 }
